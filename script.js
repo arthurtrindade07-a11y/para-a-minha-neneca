@@ -6,7 +6,7 @@ document.querySelector("#yes").addEventListener("click", function () {
   let message = document.getElementById("answer");
 
   card.style.backgroundImage =
-    "url('https://br.pinterest.com/pin/702350504419519925/')";
+    "url('https://pt.picmix.com/stamp/Background-Transparent-Hearts-Pink-Gif-Leila-1960763')";
   question.style.display = "none";
   message.style.display = "flex";
 });
