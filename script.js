@@ -6,7 +6,7 @@ document.querySelector("#yes").addEventListener("click", function () {
   let message = document.getElementById("answer");
 
   card.style.backgroundImage =
-    "url('https://img1.picmix.com/output/stamp/normal/5/1/0/1/1171015_f458c.gif')";
+    "url('https://br.pinterest.com/pin/702350504419519925/')";
   question.style.display = "none";
   message.style.display = "flex";
 });
